@@ -1,4 +1,31 @@
-# college-project-s
-The Simple Habit Tracker is a command-line application developed in Python to help users monitor and maintain their daily habits. In the modern world, building consistent habits is crucial for personal development and goal achievement. This tool provides a straightforward, persistent, and easy-to-use interface to add, log completion, and view the status of various habits. The application utilizes a JSON file for data persistence, ensuring that all tracked progress is saved between sessions.
+Daily Habit Tracker
 
+A beginner-friendly Python project to help you track daily habits from the command line. Add habits, mark them as complete for the day, and monitor your daily progress using a simple text-based interface.
 
+Features
+
+Add new daily habits to your tracker
+
+Mark habits as complete for the current day
+
+View which habits are completed today
+
+Persistent progress saved in a habits.json file
+
+Requirements
+
+Python 3.x
+
+No third-party libraries are required.
+
+Getting Started
+
+Clone the repository by running: git clone https://github.com/your-username/daily-habit-tracker.git and navigate into the folder.
+
+Run the tracker by executing: python habit_tracker.py
+
+Follow the on-screen menu options to manage your habits.
+
+Usage
+
+When you run the program, you can add new habits, mark habits complete for today, show today's habit completion status, or quit the program. Your progress is saved automatically.
